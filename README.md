@@ -23,4 +23,5 @@
    2. Use classes following better software engineering practices.
    3. Web scraping for displaying images (optionally) along with the text description.
    4. Update database schema (use some online database than the local json file) for checkpoints of the game.
-   5. Push it to pypy.
+   5. Write unittests for each class, methods etc
+   6. Push it to pypy.
